@@ -19,10 +19,10 @@ Util:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing-test
 
 ```bash
-pip install package_name
+pip install image_processing-test
 ```
 
 ## Usage
