@@ -1,5 +1,5 @@
 # Projeto: Pacote de Processamento de Imagens
-# "image_processing-test"
+# "image_processing_test"
 
 Descrição.
 
