@@ -1,11 +1,21 @@
 # Projeto: Pacote de Processamento de Imagens
 # "image_processing-test"
 
-Description. 
-The package "image_processing-test" is  used to:
-	processing:
-		- Histogram matching
-		- Structural similarity
+Descrição.
+
+O processamento da imagem do pacote e usado para:
+
+Em processamento:
+	- Correspondencia de histograma
+	- Semelhanca estrutural
+	- Redimensionar imagem
+
+Util:
+	- Ler imagem
+	- Salvar imagem
+	- Plotar imagem
+	- Resultado da trama
+	- Plotar histograma
 
 ## Installation
 
