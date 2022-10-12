@@ -11,7 +11,7 @@ setup(
     version="0.0.1",
     author="Guilherme Cordoba",
     author_email="guimcordoba@hotmail.com",
-    description="My short description",
+    description="Teste de processamento de imagem",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/GuiCordoba/Processamento_img_DIO",
