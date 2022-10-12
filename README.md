@@ -6,16 +6,16 @@ Descrição.
 O processamento da imagem do pacote e usado para:
 
 Em processamento:
-	- Correspondencia de histograma
-	- Semelhanca estrutural
-	- Redimensionar imagem
+- Correspondencia de histograma
+- Semelhanca estrutural
+- Redimensionar imagem
 
 Util:
-	- Ler imagem
-	- Salvar imagem
-	- Plotar imagem
-	- Resultado da trama
-	- Plotar histograma
+- Ler imagem
+- Salvar imagem
+- Plotar imagem
+- Resultado da trama
+- Plotar histograma
 
 ## Installation
 
