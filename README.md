@@ -1,9 +1,11 @@
-# package_name
+# Projeto: Pacote de Processamento de Imagens
+# "image_processing-test"
 
 Description. 
-The package package_name is used to:
-	- 
-	-
+The package "image_processing-test" is  used to:
+	processing:
+		- Histogram matching
+		- Structural similarity
 
 ## Installation
 
@@ -16,12 +18,12 @@ pip install package_name
 ## Usage
 
 ```python
-from package_name import file1_name
+from package_name.module1_name import file1_name
 file1_name.my_function()
 ```
 
 ## Author
-My_name
+Guilherme Cordoba
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
